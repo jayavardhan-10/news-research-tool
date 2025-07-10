@@ -4,6 +4,8 @@ const urlCard = document.getElementById('url-card');
 const fileCard = document.getElementById('file-card');
 const textCard = document.getElementById('text-card');
 
+
+
 // Page elements
 const mainPage = document.getElementById('main-page');
 const urlPage = document.getElementById('url-page');
